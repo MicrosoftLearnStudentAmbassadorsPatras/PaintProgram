@@ -1,0 +1,18 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\bin\Debug\CustomFileFormatWriter.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\bin\Debug\CustomFileFormatWriter.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.pdb
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.exe
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.pdb
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\bin\Debug\CustomFileFormatWriter.exe
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\bin\Debug\CustomFileFormatWriter.pdb
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.Form1.resources
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\CustomFileFormatWriter.Properties.Resources.resources
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Shared(Incoming)\CustomFileFormatWriter\CustomFileFormatWriter\obj\x86\Debug\GenerateResource.write.1.tlog
